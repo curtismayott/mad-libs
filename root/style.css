@@ -1,0 +1,28 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+body {
+    background-color:black;
+}
+
+p {
+    color:white;
+}
+
+input {
+    align-items: center;
+    margin-left:10px;
+    background-color:white;
+    color:black;
+}
+
+button#submit {
+    background-image: url(../images/submit_btn.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    margin-left:10px;
+    margin-top:10px;
+}
